@@ -79,7 +79,7 @@ const config: DocsThemeConfig = {
     text: (
       <span>
         Copyright {new Date().getFullYear()} ©{" "}
-        <a href="https://n0step.xyz" target="_blank">
+        <a href="https://nostep.xyz" target="_blank">
           n0step_
         </a>
         .
